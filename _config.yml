@@ -67,7 +67,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  cv               : "resume.pdf"
+  # cv               : "resume.pdf"
   wechat           : "wechat-qrcode.jpg"
 
 
