@@ -23,9 +23,9 @@ My research interest focuses on building hardware-efficient and reliable systems
 
 <span style="color: red;">I am applying for the 2025 Fall Ph.D. program in Computer Science focused on maching learning systems and traditional core systems and architecture. Please reach out if you think I am a good candidate!  </span> `shen634[at]purdue[dot]edu`
 
-<h2 class="col">
+<!-- <h2 class="col">
 <font color=blue>Open project</font>
-</h2>
+</h2> -->
 
 <!-- 1 -->
 <!-- <div class="section-text col-right">
