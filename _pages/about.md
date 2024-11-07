@@ -11,23 +11,24 @@ redirect_from:
 <font color=blue>Biography</font>
 </h2>
 
-I'm a fourth year undergraduate student major in theoretical and applied mechanics from <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>. I am very fortunate to be advised by <a href="https://cseweb.ucsd.edu/~haozhang/">Hao Zhang</a>(UCSD), <a href="https://minjiazhang.github.io/">Minjia Zhang</a>(UIUC) and <a href="http://keg.cs.tsinghua.edu.cn/jietang">Jie Tang</a>(THU) in the past.
+I'm a senior undergraduate student from <a href="https://www.purdue.edu/">Purdue University</a>, majoring in Computer Information Technology with a minor in Maths. 
+Previously, I was a research intern at Shanghai Qi Zhi Institute, fortunate to work with<a href="http://people.iiis.tsinghua.edu.cn/~gaomy/">Mingyu Gao</a> at Tsinghua University from May 2023 to August 2024. Before that, I worked with<a href="https://baijianyang.netlify.app/">Mingyu Gao</a> at Purdue University as a research assistant.
 
-My research interest focuses on building hardware-efficient and reliable machine learning systems, specifically in the following topics:
+My research interest focuses on building hardware-efficient and reliable systems for emerging workloads, specifically in the following topics:
 <ul>
-    <li>Efficient DiT model in training and inference.</li>
-    <li>Efficient inference for large language models with sparsity and quantization method.</li>
-    <li>Efficient serving system for large foundation models</li>
+    <li>Systems for Emerging AI Workloads.</li>
+    <li>Edge Computing and Embodied Intelligence.</li>
+    <li>HPC for AI in Science</li>
 </ul>
 
-<span style="color: red;">I am applying for the 2025 Fall Ph.D. program in Computer Science focused on maching learning and systems. Please reach out if you think I am a good candidate!  </span> `pianoqwz[at]gmail[dot]com`
+<span style="color: red;">I am applying for the 2025 Fall Ph.D. program in Computer Science focused on maching learning systems and traditional core systems and architecture. Please reach out if you think I am a good candidate!  </span> `shen634[at]purdue[dot]edu`
 
 <h2 class="col">
 <font color=blue>Open project</font>
 </h2>
 
 <!-- 1 -->
-<div class="section-text col-right">
+<!-- <div class="section-text col-right">
 <h3><a href="https://github.com/THUDM/AgentBench" style="text-decoration: none;"><span class="emph">AgentBench: Evaluating LLMs as Agents</span></a></h3>
 </div>
 
@@ -37,13 +38,14 @@ My research interest focuses on building hardware-efficient and reliable machine
 <ul>
     <li>Project: AgentBench, ICLR 2024, 2k+ stars</li>
     <li>This project made me realize the importance of long-text performance of large models in real-world agent applications, which has since become the focus of my research.</li>
-</ul>
+</ul> -->
 
 <h2 class="col">
 <font color=blue>Hobbies</font>
 </h2>
 
 <ul>
-    <li>Ping Pong. I am a member and referee of our department's ping pong team.</li>
-    <li>Playing Guitar. I play both electric and acoustic guitar and enjoy various styles of music, including R&B, Soul, Jazz. I am a fan of <a href="https://www.youtube.com/channel/UCGD7CfG3JgZF52QpIRivV1Q">Stevie Wonder </a> and <a href="https://www.youtube.com/@MateusAsato"> Mateus Asato</a>.</li>
+    <li>Workout. I exercise in my spare time after work, which gives me more energy for my job.</li>
+    <li>Cook. I cook for myself in my spare time after work, as it is a way to nurture both body and mind.</li>
+    <li>Stock. I focus on stock in non-ferrous metals, which helps me adopt a long-term mindset.</li>
 </ul>

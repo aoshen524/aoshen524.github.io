@@ -8,13 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hangliang Ding"
+title                    : "Ao Shen"
 title_separator          : "-"
-name                     : &name "Hangliang Ding "
-description              : &description "a third year undergraduate student from Tsinghua University"
-url                      : https://foreverpiano.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "foreverpiano/foreverpiano.github.io"
+name                     : &name "Ao Shen" "
+description              : &description "a senior year undergraduate student from Purdue University"
+url                      : https://aoshen524.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,17 +20,16 @@ repository               : "foreverpiano/foreverpiano.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Hangliang Ding"
+  name             : "Ao Shen"
   pronouns         : # example: "she/her"  
-  bio              : "丁杭亮 in Chinese"
-  location         : "Beijing, China"
-  employer         : "Tsinghua University"
+  bio              : "申奥 in Chinese"
+  location         : "West Lafayette, Indiana"
+  employer         : "Purdue University"
   uri              : # URL
-  email            : "pianoqwz@gmail.com" 
+  email            : "shen634@purdue.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=LxPRowMAAAAJ"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -43,7 +40,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "foreverpiano"
+  github           : "shenao1111"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -65,13 +62,12 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : foreverpiano # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : "https://www.zhihu.com/people/foreverpiano"
+  cv               : "aoshen524.github.io/_pages/resume.pdf"
   wechat           : "wechat-qrcode.jpg"
 
 
