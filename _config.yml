@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Ao Shen"
-title_separator          : "-"
+title_separator           : "·"
 name                     : &name "Ao Shen"
 description              : &description "Ao Shen, Purdue University, machine learning system"
 url                      : https://aoshen524.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
