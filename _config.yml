@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Ao Shen"
 title_separator           : "·"
-name                     : &name "Ao Shen 申奥"
-description              : &description "Ao Shen - Computer Science @ Purdue University | Machine Learning Systems Research"
+name                     : &name "Ao Shen"
+description              : &description "Ao Shen @ Purdue University"
 url                      : https://aoshen524.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
