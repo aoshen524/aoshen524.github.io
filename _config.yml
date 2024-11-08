@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ao Shen"
+title                    : "Ao Shen | Purdue CS | ML Systems"
 title_separator           : "·"
 name                     : &name "Ao Shen"
-description              : &description "Ao Shen, Purdue University, machine learning system"
+description              : &description "Ao Shen - Computer Science @ Purdue University | Machine Learning Systems Research"
 url                      : https://aoshen524.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
