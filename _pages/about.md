@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="lpEFbrsFijTC-wUqo2Zjp3O0MzPFiUPaMUWXZXLnKjA" />
 ---
 permalink: /
 title: "Ao Shen"
