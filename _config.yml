@@ -21,11 +21,9 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Ao Shen"
-  pronouns         : # example: "she/her"  
   bio              : "申奥 in Chinese"
   location         : "West Lafayette, Indiana"
   employer         : "Purdue University"
-  uri              : # URL
   email            : "shen634@purdue.edu" 
 
   # Academic websites
@@ -331,7 +329,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-User-agent: *
-Allow: /
-Sitemap: https://aoshen524.github.io/sitemap.xml
