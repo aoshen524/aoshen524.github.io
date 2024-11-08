@@ -331,3 +331,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+User-agent: *
+Allow: /
+Sitemap: https://aoshen524.github.io/sitemap.xml
