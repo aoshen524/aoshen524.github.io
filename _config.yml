@@ -40,7 +40,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "shenao1111"
+  github           : "https://github.com/ShenAo1111"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -67,7 +67,6 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  cv               : "files/resume.pdf"
   wechat           : "wechat-qrcode.jpg"
 
 
