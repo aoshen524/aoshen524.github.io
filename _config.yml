@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "About"
 title_separator           : "·"
-name                     : &name "Ao Shen"
+name                     : &name "About"
 description              : &description "Ao Shen @ Purdue University"
 url                      : https://aoshen524.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 
