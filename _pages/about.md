@@ -17,7 +17,7 @@ Previously, I was a research intern at Shanghai Qi Zhi Institute, fortunate to w
 My research interest focuses on building hardware-efficient and reliable systems for emerging workloads, specifically in the following topics:
 <ul>
     <li>Systems for Emerging AI Workloads.</li>
-    <li>Edge Computing and Embodied Intelligence.</li>
+    <li>Edge Computing.</li>
     <li>HPC for Science</li>
 </ul>
 
