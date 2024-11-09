@@ -18,7 +18,7 @@ My research interest focuses on building hardware-efficient and reliable systems
 <ul>
     <li>Systems for Emerging AI Workloads.</li>
     <li>Edge Computing.</li>
-    <li>HPC for Science</li>
+    <li>HPC for Science.</li>
 </ul>
 
 <span style="color: red;">I am applying for the 2025 Fall Ph.D. program in Computer Science focused on maching learning systems and traditional core systems and architecture. Please reach out if you think I am a good candidate!  </span> `shen634[at]purdue[dot]edu`
