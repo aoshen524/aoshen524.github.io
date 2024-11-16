@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ao Shen"
+title                    : "Home"
 title_separator           : "·"
 name                     : &name "Ao Shen"
 description              : &description "Ao Shen @ Purdue University"
@@ -20,7 +20,6 @@ url                      : https://aoshen524.github.io/ # the base hostname & pr
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Ao Shen"
   location         : "West Lafayette, Indiana"
   employer         : "Purdue University"
   email            : "shen634@purdue.edu" 
