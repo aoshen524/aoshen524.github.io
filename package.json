@@ -24,6 +24,7 @@
     "node": ">= 0.10.0"
   },
   "dependencies": {
+    "hexo-generator-sitemap": "^3.0.1",
     "jquery": "^3.7.1"
   },
   "devDependencies": {
