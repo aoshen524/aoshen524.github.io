@@ -14,9 +14,9 @@ redirect_from:
 I'm a senior undergraduate student from <a href="https://www.purdue.edu/">Purdue University</a>, majoring in Computer Information Technology with a minor in Maths. 
 Previously, I was a research intern at Shanghai Qi Zhi Institute, fortunate to work with <a href="http://people.iiis.tsinghua.edu.cn/~gaomy/">Mingyu Gao</a> at Tsinghua University from May 2023 to August 2024. Before that, I worked with <a href="https://baijianyang.netlify.app/">Baijian Yang</a> at Purdue University as a research assistant.
 
-My research interest focuses on building hardware-efficient and reliable systems for emerging workloads, specifically in the following topics:
+My research interest focuses on building hardware-efficient and reliable systems and architecture for emerging workloads, specifically in the following topics:
 <ul>
-    <li>Systems for Emerging AI Workloads.</li>
+    <li>System and Architecture for Emerging AI Workloads.</li>
     <li>Edge Computing.</li>
     <li>HPC for Science.</li>
 </ul>
