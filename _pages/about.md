@@ -11,34 +11,16 @@ redirect_from:
 <font color=blue>Biography</font>
 </h2>
 
-I'm a senior undergraduate student from <a href="https://www.purdue.edu/">Purdue University</a>, majoring in Computer Information Technology with a minor in Maths. 
+I'm a senior undergraduate student at <a href="https://www.purdue.edu/">Purdue University</a>, majoring in Computer Information Technology with a minor in Maths. 
 Previously, I was a research intern at Shanghai Qi Zhi Institute((founded by Turing Award Laureate, Prof. Andrew Chi-Chih Yao)), fortunate to work with <a href="http://people.iiis.tsinghua.edu.cn/~gaomy/">Mingyu Gao</a> at Tsinghua University from May 2023 to August 2024. Before that, I worked with <a href="https://baijianyang.netlify.app/">Baijian Yang</a> at Purdue University as a research assistant.
 
 My research interest focuses on building hardware-efficient and reliable systems and architecture for emerging workloads, specifically in the following topics:
 <ul>
-    <li>System and Architecture for Emerging AI Workloads.</li>
+    <li>System and Architecture for AI and Science.</li>
     <li>Edge Computing.</li>
-    <li>High Performance Computing (HPC) for Science.</li>
 </ul>
 
-<span style="color: red;">I am applying for the 2025 Fall Ph.D. program in Computer Science focused on maching learning systems and traditional core systems and architecture. Please reach out if you think I am a good candidate!  </span> `shen634[at]purdue[dot]edu`
-
-<!-- <h2 class="col">
-<font color=blue>Open project</font>
-</h2> -->
-
-<!-- 1 -->
-<!-- <div class="section-text col-right">
-<h3><a href="https://github.com/THUDM/AgentBench" style="text-decoration: none;"><span class="emph">AgentBench: Evaluating LLMs as Agents</span></a></h3>
-</div>
-
-<div><a style="text-decoration: none;">@Intern at Zhipu AI</a>
-</div>
-
-<ul>
-    <li>Project: AgentBench, ICLR 2024, 2k+ stars</li>
-    <li>This project made me realize the importance of long-text performance of large models in real-world agent applications, which has since become the focus of my research.</li>
-</ul> -->
+<span style="color: red;">I am applying for the 2025 Fall Ph.D. program in Computer Science focused on maching learning infrastructure and traditional core systems and architecture. Please reach out if you think I am a good candidate!  </span> `shen634[at]purdue[dot]edu`
 
 <h2 class="col">
 <font color=blue>Hobbies</font>
