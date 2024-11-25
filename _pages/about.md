@@ -12,7 +12,7 @@ redirect_from:
 </h2>
 
 I'm a senior undergraduate student at <a href="https://www.purdue.edu/">Purdue University</a>, majoring in Computer Information Technology with a minor in Maths. 
-Previously, I was a research intern at Shanghai Qi Zhi Institute((founded by Turing Award Laureate, Prof. Andrew Chi-Chih Yao)), fortunate to work with <a href="http://people.iiis.tsinghua.edu.cn/~gaomy/">Mingyu Gao</a> at Tsinghua University from May 2023 to August 2024. Before that, I worked with <a href="https://baijianyang.netlify.app/">Baijian Yang</a> at Purdue University as a research assistant.
+Previously, I was a research intern at Shanghai Qi Zhi Institute(founded by Turing Award Laureate, Prof. Andrew Chi-Chih Yao), fortunate to work with <a href="http://people.iiis.tsinghua.edu.cn/~gaomy/">Mingyu Gao</a> at Tsinghua University from May 2023 to August 2024. Before that, I worked with <a href="https://baijianyang.netlify.app/">Baijian Yang</a> at Purdue University as a research assistant.
 
 My research interest focuses on building hardware-efficient and reliable systems and architecture for emerging workloads, specifically in the following topics:
 <ul>
