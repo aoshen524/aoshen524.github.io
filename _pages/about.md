@@ -20,7 +20,78 @@ My research interest focuses on building hardware-efficient and reliable systems
 </ul>
 
 <span style="color: red;">I am applying for the 2025 Fall Ph.D. program in Computer Science focused on maching learning infrastructure and traditional core systems and architecture. Please reach out if you think I am a good candidate!  </span> `shen634[at]purdue[dot]edu`
+<h2 class="col">
+<font color=blue>Publications</font>
+</h2>
 
+<div style="display: flex; align-items: center;">
+
+<div style="flex-shrink: 0; margin-right: 20px;">
+
+<img src="../images/system_architecture_01.png" alt="AgileSwitch" style="max-width: 200px;">
+
+</div>
+
+<div>
+
+<h3 style="font-size: 18px; font-weight: bold; margin-bottom: 10px;">
+
+A LLM serving system (Under Review in ATC 25)
+
+</h3>
+
+<div style="font-size: 14px; margin-bottom: 10px;">
+
+<b>A. Shen</b>*, Z. Li, M. Gao
+
+</div>
+
+<div style="font-size: 14px; margin-bottom: 10px;">
+
+
+</div>
+
+</div>
+
+</div>
+
+<div style="display: flex; align-items: center;">
+
+<div style="flex-shrink: 0; margin-right: 20px;">
+
+<img src="../images/overview_00.png" alt="Canvas" style="max-width: 200px;">
+
+</div>
+
+<div>
+
+<h3 style="font-size: 18px; font-weight: bold; margin-bottom: 10px;">
+
+Canvas: End-to-End Kernel Architecture Search in Neural Networks
+
+</h3>
+
+<div style="font-size: 14px; margin-bottom: 10px;">
+
+C. Zhao,  G. Zhang, <b>A. Shen</b>, M. Gao
+
+</div>
+
+<div style="font-size: 14px; margin-bottom: 10px;">
+
+
+</div>
+
+<div style="font-size: 14px; margin-top: 10px;">
+
+
+<a href="https://arxiv.org/abs/2304.07741" style="text-decoration: none; color: #52ADC8;">Arxiv</a> available.
+
+</div>
+
+</div>
+
+</div>
 <h2 class="col">
 <font color=blue>Misc</font>
 </h2>
@@ -28,5 +99,5 @@ My research interest focuses on building hardware-efficient and reliable systems
 <ul>
     <li>Workout. I exercise in my spare time after work, which gives me more energy for my job.</li>
     <li>Cook. I cook for myself in my spare time after work, as it is a way to nurture both body and mind.</li>
-    <li>Stock. I focus on stock in non-ferrous metals, which helps me adopt a long-term mindset.</li>
+    <li>Stock. I do non-ferrous metals, which helps me adopt a long-term mindset, resulting in an annualized return of around 20% over the past three years in A-share - recognized as one of the most challenging markets globally.</li>
 </ul>
