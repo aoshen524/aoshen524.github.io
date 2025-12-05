@@ -16,7 +16,7 @@ I'm a research engineer working in OpenAGI Foundation. I also part-time contribu
 <h2 class="col">
 <font color=blue>News</font>
 </h2>
-
+- Aug 2025: Proposed <a href="https://arxiv.org/html/2510.15882v1" style="color: #52ADC8; text-decoration: underline;">FlexLink</a>, a communication optimization work that dynamically aggregates multiple links (NVLink, PCIe, RDMA) to boost the throughput of communication operators (e.g., AllReduce, AllGather) by up to 27% on H800 clusters.
 - May 2025: Joined Ant Group(RL Infrastructure) as a research intern.
 - May 2025: Proposed <a href="https://arxiv.org/abs/2502.06155" style="color: #52ADC8; text-decoration: underline;">Soft Thinking</a>, an efficient reasoning method built on SGLang.
 
